@@ -1,0 +1,16 @@
+{
+  "format_version": "1.8.0",
+  "animations": {
+    "animation.animated_totem.idle": {
+      "loop": true,
+      "bones": {
+        "totem": {
+          "rotation": [
+            {"angle": 0, "axis": "y", "time": 0},
+            {"angle": 360, "axis": "y", "time": 60}
+          ]
+        }
+      }
+    }
+  }
+}

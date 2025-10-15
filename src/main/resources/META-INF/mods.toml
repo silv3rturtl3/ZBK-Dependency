@@ -1,0 +1,16 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="zbk_dependency"
+version="1.0.0"
+displayName="ZBK Dependency"
+description="Lightweight dependency mod providing sound and locking systems for Zombiekit, plus a GeckoLib animation example."
+
+[[dependencies.zbk_dependency]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
